@@ -9,12 +9,7 @@ type Type = {
 }
 
 const Bai2_7 = (props: Type) => {
-    // function arrToObj(arr: any) {
-    //     return arr.reduce((innit: any, value: any) => {
-    //       innit[value[0]] = value[1]
-    //       return innit
-    //    }, {}) 
-    // }
+    //Cho trước mảng infoArr, hãy viết hàm arrToObj để chuyển array thành object.
 
     const infoArr:( (number|string)[] )[] = [
         ['name', 'The Anh'],
