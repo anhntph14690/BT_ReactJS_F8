@@ -9,6 +9,8 @@ const Home = (props: Props) => {
         <ul>
             <li><a><NavLink to={`/bai2_5`}>Bài 2.5</NavLink></a></li>
             <li><a><NavLink to={`/bai2_7`}>Bài 2.7</NavLink></a></li>
+            <li><a><NavLink to={`/bai2_8`}>Bài 2.8</NavLink></a></li>
+
 
         </ul>
     </div>
